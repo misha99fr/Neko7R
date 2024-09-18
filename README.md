@@ -1,17 +1,18 @@
-# Neko7
-Neko7 is a joke game about collecting cats, based on an easter egg from Android Nougat. It was created for a fool's day prank in my main project Neko11. 
-Is compatible with Neko11 and you can safely play both versions without losing progress. 
-## How to play
-To start the game:
-1. Add Neko7 to the "notification drawer" (where Wi-Fi, Bluetooth, Flashlight, etc. are located).
+# Neko7R Чо эт ваще
+Neko7 ну эт тип шуточная игра про пушистых котэ
 
-OR
+эта игра ставится поверх неко11, патаму што разрабу лень делать отдельно 
+## Памагити как играт
+Што бы начать игру:
+1. Добавьте эту игру в панель уведомлений (управление устройствами) и играйте хд
 
-1. Open the app, then open the menu and tap Dish.
+или
 
-2. Select your favorite food and close the app. You will receive a notification when the kitty comes.
+1. Открой приложение, потом нажми на блюдо TO DO
 
-Enjoy the game!
+2. Выбрать ваша любимая еда для подача котику еда, а затем закрывать приложение
+
+Игра наслаждение
 
 ## Screenshots
 <img src='/github/1.jpg' width='300'> <img src='/github/2.jpg' width='300'> <img src='/github/3.jpg' width='300'>
